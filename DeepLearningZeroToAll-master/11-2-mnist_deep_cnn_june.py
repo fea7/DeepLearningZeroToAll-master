@@ -3,7 +3,7 @@ import tensorflow as tf
 import random
 import numpy as np
 # import matplotlib.pyplot as plt
-
+#change
 from tensorflow.examples.tutorials.mnist import input_data
 
 tf.set_random_seed(777)  # reproducibility
